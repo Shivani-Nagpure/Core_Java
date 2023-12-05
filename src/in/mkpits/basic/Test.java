@@ -10,6 +10,8 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("welcome to github");
 		int a=10;
+		
+		float f=20.0f;
 
 	}
 
