@@ -12,6 +12,8 @@ public class Test {
 		int a=10;
 		
 		float f=20.0f;
+		
+		char ch='Y';
 
 	}
 
